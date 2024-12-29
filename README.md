@@ -22,7 +22,8 @@
 <a class="link2" href="https://github.com/Kuudere-phile/kuuderephile/releases/download/v1.0/Kuuderephile-1.0-pc.7z">v1.0 23.10.2023р Win</a><br>
 <a class="link2" href="https://github.com/Kuudere-phile/kuuderephile/releases/download/v1.0/Kuuderephile-1.0-mac.7z">v1.0 23.10.2023р Mac</a><br>
 ##
-
+Мій [Telegram](https://t.me/kuuderephile) та [Discord](https://discord.gg/36yH5WrmN3)
+#
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kuudere-phile/kuuderephile/main/image/qr.webp" alt="Тестове зображення" style="display: block; margin: 0 auto;"><br>
 <a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate">Підтримати розробника</a>
