@@ -25,8 +25,10 @@
 Мій [Telegram](https://t.me/kuuderephile) та [Discord](https://discord.gg/36yH5WrmN3)
 #
 <div align="center">
-<img src="https://raw.githubusercontent.com/Kuudere-phile/kuuderephile/main/image/qr.webp" alt="Тестове зображення" style="display: block; margin: 0 auto;"><br>
-<a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate">Підтримати розробника</a>
+<a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate">
+<img src="https://raw.githubusercontent.com/Kuudere-phile/kuuderephile/main/image/qr.webp" alt="Зображення" style="display: block; margin: 0 auto;">
+</a>
+<br><a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate">Підтримати розробника</a>
 </div>
 
 
