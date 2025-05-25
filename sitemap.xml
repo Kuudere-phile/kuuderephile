@@ -12,24 +12,4 @@
     <priority>1.0</priority>
   </url>
 
-  <url>
-    <loc>https://kuudere-phile.github.io/KuuReader/</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://kuudere-phile.github.io/base64/</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://kuudere-phile.github.io/Bat-Converter/</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://kuudere-phile.github.io/AuSub/</loc>
-    <priority>0.7</priority>
-  </url>
-
 </urlset>
